@@ -1,0 +1,8 @@
+npm init -f  
+npm i express
+npm i typescript -D
+npx tsc --init
+* configuring the tsconfig.json
+npm i @types/express -D
+npm i ts-node-dev -D
+* congigurar scripts:build -> tsc
